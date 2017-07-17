@@ -78,10 +78,12 @@ python manage.py runserver
     </tr>
 </table>
 
+```
 NOTE: To view/add/delete users/contacts/phonenumbers login to Admin panel /admin/ with admin/demo1234
 ```
 
 ##### Available Users for testing purposes
+
 ```
 user: demo1
 pass: demo1
