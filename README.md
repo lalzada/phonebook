@@ -48,7 +48,7 @@ python manage.py runserver
         <td>/contacts/</td>
         <td>Add New Contact with or without phone numbers</td>
         <td>POST</td>
-        <td>{"name": "Mike", "phone_number": [{"number": "+23018574741"}, {"number": "+23018574741"}] }</td>
+        <td>{"name": "Mike", "phone_numbers": [{"number": "+23018574741"}, {"number": "+23018574741"}] }</td>
         <td>name</td>
         <td>Contact object including phone number list</td>
     </tr>
