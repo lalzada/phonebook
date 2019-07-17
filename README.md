@@ -1,3 +1,5 @@
+###### A demo application (REST APIs) built in Django and SQLite to manage a user's contacts and phone numbers
+
 ##### Tested Enviroment
 ```
 Python 2.7
